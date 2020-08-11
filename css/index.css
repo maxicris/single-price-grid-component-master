@@ -5,6 +5,7 @@
   --bright-yellow: rgb(192, 223, 52);
   --light-gray: rgb(229, 239, 245);
   --grayish-blue: rgb(74, 190, 189);
+  font-size: var(--font-size);
 }
 
 body {
