@@ -1,0 +1,118 @@
+:root {
+  --font-family: 'Karla', sans-serif;
+  --font-size: 16px;
+  --cyan: rgb(42, 178, 175);
+  --bright-yellow: rgb(192, 223, 52);
+  --light-gray: rgb(229, 239, 245);
+  --grayish-blue: rgb(74, 190, 189);
+}
+
+body {
+  background-color: var(--light-gray);
+  font-family: var(--font-family);
+  height: 870px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  width: 19.35rem;
+  box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  height: 16.70rem;
+  box-sizing: border-box;
+  padding: 1.88rem 1.45rem;
+  border-radius: 4px 4px 0 0;
+  background-color: white;
+}
+
+.header__title {
+  color: var(--cyan);
+  font-size: 1.22rem;
+  font-weight: 700;
+  margin-bottom: 1.65rem;
+}
+
+.header__paragraph-strong {
+  color: var(--bright-yellow);
+  font-weight: 700;
+  font-size: 0.92rem;
+  line-height: 1.2rem;
+  margin-bottom: 1.1rem;
+}
+
+.header__paragraph {
+  color: var(--cyan);
+  font-size: 0.85rem;
+  line-height: 1.6rem;
+}
+
+.subscription {
+  height: 14.25rem;
+  box-sizing: border-box;
+  padding: 1.55rem 1.45rem;
+  color: white;
+  background-color: var(--cyan);
+}
+
+.subscription__title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 1.4rem;
+}
+
+.subscription__price {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.7rem;
+}
+
+.subscription__price--strong {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-right: 0.65rem;
+}
+
+.subscription__paragraph {
+  font-size: 0.97rem;
+  margin-bottom: 2rem;
+}
+
+.subscription__button {
+  background-color: var(--bright-yellow);
+  font-size: 0.93rem;
+  font-weight: 700;
+  color: white;
+  width: 16.45rem;
+  height: 2.95rem;
+  border-style: none;
+  border-radius: 4px;
+  box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.1);
+}
+
+.whyus {
+  height: 14.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.45rem;
+  color: white;
+  background-color: var(--grayish-blue);
+  border-radius: 0 0 4px 4px;
+}
+
+.whyus__title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 1.4rem;
+}
+
+.whyus__paragraph {
+  width: 80%;
+  font-size: 0.85rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 8.35rem;
+}

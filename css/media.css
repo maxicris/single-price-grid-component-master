@@ -1,0 +1,52 @@
+@media screen and (min-width: 1440px) {
+  body {
+    height: 800px;
+  }
+
+  .wrapper {
+    width: 39.65rem;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .header {
+    height: 13.5rem;
+    width: 100%;
+    padding: 2.6rem 2.45rem;
+    border-radius: 8px 8px 0 0;
+  }
+
+  .header__title {
+    font-size: 1.47rem;
+  }
+
+  .header__paragraph-strong {
+    font-size: 1.1rem;
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+  }
+
+  .header__paragraph {
+    font-size: 0.975rem;
+    line-height: 1.65rem;
+  }
+
+  .subscription {
+    height: 16.15rem;
+    width: 50%;
+    padding: 2.65rem 2.45rem;
+    border-radius: 0 0 0 8px;
+  }
+
+  .subscription__button {
+    width: 14.85rem;
+  }
+
+  .whyus {
+    height: 16.15rem;
+    width: 50%;
+    padding: 2.65rem 2.45rem;
+    border-radius: 0 0 8px 0;
+  }
+}
