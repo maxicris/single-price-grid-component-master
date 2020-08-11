@@ -11,7 +11,7 @@ El desafío es desarrollar esta sección y hacer que se vea lo más parecido pos
 
 Acá puedes ver el [Challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/).
 
-Y acá el [Demo](https://maxicris.github.io/single-price-grid-component/).
+Y acá el [Demo](https://maxicris.github.io/single-price-grid-component-master/).
 
 En [Frontend Mentor](https://www.frontendmentor.io) hay muchos desafios más que permiten mejorar las habilidades en un flujo de trabajo de la vida real. :fire:
 

@@ -12,7 +12,7 @@ To do it, you need a basic understanding of HTML and CSS. :white_check_mark:
 
 Here you can see the [Challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/).
 
-And here the [Demo](https://maxicris.github.io/single-price-grid-component/).
+And here the [Demo](https://maxicris.github.io/single-price-grid-component-master/).
 
 There are many more challenges in [Frontend Mentor](https://www.frontendmentor.io) that allow you to improve skills in a real life workflow. :fire:
 
